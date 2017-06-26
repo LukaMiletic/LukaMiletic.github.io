@@ -1,11 +1,11 @@
 .FullHeading {
   text-align: center;
-  color: #ededed;
+  color: #000000;
   font-family: sans-serif;
 }
 
 body {
-  background-color: #91765e
+  background-color: #ffffff
 }
 
 .Photo{
@@ -14,14 +14,14 @@ body {
 
 .Paragraph1{
   text-align: center;
-  color: #ededed;
+  color: #000000;
   font-family: sans-serif;
   letter-spacing: 1px;
 }
 
 .AllWrite {
   text-align: center;
-  color: #ededed;
+  color: #000000;
   font-family: sans-serif;
   letter-spacing: 1px;
   line-height: 3px;
