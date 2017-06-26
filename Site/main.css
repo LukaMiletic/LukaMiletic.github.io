@@ -1,0 +1,29 @@
+.FullHeading {
+  text-align: center;
+  color: #ededed;
+  font-family: sans-serif;
+}
+
+body {
+  background-color: #706553;
+}
+
+.Photo{
+  text-align: center;
+}
+
+.Paragraph1{
+  text-align: center;
+  color: #ededed;
+  font-family: sans-serif;
+  letter-spacing: 1px;
+}
+
+.AllWrite {
+  text-align: center;
+  color: #ededed;
+  font-family: sans-serif;
+  letter-spacing: 1px;
+  line-height: 3px;
+  margin-bottom: 50px;
+}
